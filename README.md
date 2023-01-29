@@ -2,7 +2,7 @@
 
 - 💻 Faço Engenharia de Computação - UFG
 - 📓 Estou estudando Java
-- 🔍 Procuro oportunidades para aumentar experiência
+- 🔍 Busco oportunidades para aumentar experiência
 - 📫 Contato via Instagram e Linkedin
 
 <div style="display: inline_block"><br>
