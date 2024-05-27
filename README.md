@@ -11,7 +11,7 @@
   <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="right" alt="Pedro-pic" height="150" style="border-radius:50 px;" src="https://cdn.discordapp.com/attachments/1057825601798549596/1068330766775373844/IMG-20230126-WA0034.jpg"> 
+  <img align="right" alt="Pedro-pic" height="200" style="border-radius:50 px;" src="https://drive.google.com/uc?id=1wc7KKx8wWiyq7Ej4n_Cx4BDFbtQuU4og">
 </div>
  
  ##
